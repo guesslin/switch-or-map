@@ -1,0 +1,37 @@
+# Golang Benchmark (?)
+
+Golang Benchmark
+02 Sep 2021
+
+Lin, Yu-han
+
+
+## 簡介
+
+1. 起因？
+2. 比較！
+3. 小結
+
+## 起因？
+
+Rickey: YuHan, why you prefer use switch more than map?
+
+Rickey: Does not map have a better performance than switch?
+
+## 比較
+
+I write some code to compare the performance difference between switch and map.
+
+## 小結
+
+Looks like they don't have the significant difference of their performance.
+
+## More? Why?
+
+1. Disassemble?
+2. Insufficient hash map from go?
+3. Compiler God-Power in Banchmark?
+
+## Q&A
+
+Frage?
