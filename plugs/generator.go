@@ -23,7 +23,7 @@ type Element struct {
 func main() {
 	numbers := flag.Int("n", 4, "")
 	input := flag.String("f", "template", "template filepath")
-	output := flag.String("o", "", "output folder path")
+	output := flag.String("o", "", "output file path")
 	lib := flag.String("p", "main", "package name")
 
 	flag.Parse()
